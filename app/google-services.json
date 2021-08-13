@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608873485063",
+    "firebase_url": "https://wayangwindu-default-rtdb.firebaseio.com",
+    "project_id": "wayangwindu",
+    "storage_bucket": "wayangwindu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608873485063:android:26c00141f22d6bc9a2eba2",
+        "android_client_info": {
+          "package_name": "com.jovanovic.stefan.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608873485063-rr788eknndsabrlfhtfmfpuj9602udnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jovanovic.stefan.mytestapp",
+            "certificate_hash": "e1c3876fbbf6e23f99365e5bcfd93b6c453f6129"
+          }
+        },
+        {
+          "client_id": "608873485063-dquicfck8lod5unopd6qt4ep3octt1al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEy3U8nj6UNB0mzIhe99QbWL1DUSZzkFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608873485063-dquicfck8lod5unopd6qt4ep3octt1al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
