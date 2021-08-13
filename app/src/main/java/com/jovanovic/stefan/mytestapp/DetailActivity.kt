@@ -1,3 +1,4 @@
+// 13-08-2021 - Gifar Fadillah Suryana - 10118378
 package com.jovanovic.stefan.mytestapp
 
 import androidx.appcompat.app.AppCompatActivity
@@ -8,7 +9,6 @@ import com.bumptech.glide.Glide
 import kotlinx.android.synthetic.*
 import kotlinx.android.synthetic.main.activity_detail.*
 
-// 11-08-2021 - Mario Gonzaga Muharjani - 10118390
 
 class DetailActivity : AppCompatActivity() {
 

@@ -1,3 +1,4 @@
+// 13-08-2021 - Gifar Fadillah Suryana - 10118378
 package com.jovanovic.stefan.mytestapp
 
 import android.os.Build
@@ -10,7 +11,6 @@ import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
-// 11-08-2021 - Mario Gonzaga Muharjani - 10118390
 
 class HomeFragment : Fragment() {
 

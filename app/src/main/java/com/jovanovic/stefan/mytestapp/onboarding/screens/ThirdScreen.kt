@@ -1,3 +1,4 @@
+// 13-08-2021 - Gifar Fadillah Suryana - 10118378
 package com.jovanovic.stefan.mytestapp.onboarding.screens
 
 import android.content.Context
@@ -12,7 +13,6 @@ import com.jovanovic.stefan.mytestapp.R
 import kotlinx.android.synthetic.main.fragment_first_screen.view.*
 import kotlinx.android.synthetic.main.fragment_third_screen.view.*
 
-//11-08-2021 - Mario Gonzaga Muharjani - IF9
 
 class ThirdScreen : Fragment() {
 

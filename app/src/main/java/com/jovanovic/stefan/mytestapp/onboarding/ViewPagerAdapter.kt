@@ -1,3 +1,4 @@
+// 13-08-2021 - Gifar Fadillah Suryana - 10118378
 package com.jovanovic.stefan.mytestapp.onboarding
 
 import androidx.fragment.app.Fragment
@@ -6,7 +7,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.viewpager2.adapter.FragmentStateAdapter
 
 
-// 11-08-2021 - Mario Gonzaga Muharjani - 10118390
+
 
 
 class ViewPagerAdapter(

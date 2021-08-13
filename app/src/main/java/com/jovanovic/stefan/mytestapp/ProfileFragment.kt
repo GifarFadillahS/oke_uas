@@ -1,3 +1,4 @@
+// 13-08-2021 - Gifar Fadillah Suryana - 10118378
 package com.jovanovic.stefan.mytestapp
 
 import android.os.Bundle
@@ -6,7 +7,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 
-// 12-08-2021 - Mario Gonzaga Muharjani - 10118390
 
 class ProfileFragment : Fragment() {
 

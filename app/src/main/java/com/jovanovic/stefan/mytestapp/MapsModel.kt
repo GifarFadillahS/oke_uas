@@ -1,9 +1,9 @@
+// 13-08-2021 - Gifar Fadillah Suryana - 10118378
 package com.jovanovic.stefan.mytestapp
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 
-// 12-08-2021 Mario Gonzaga Muharjani - IF9
 
 @Parcelize
 data class MapsModel (
